@@ -1,4 +1,4 @@
-name: Jekyll site CI
+iesname: Jekyll site CI
 
 on:
   push:
@@ -15,5 +15,5 @@ jobs:
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: one-html-page-challenge
+        folder: entries
         branch: gh-pages
