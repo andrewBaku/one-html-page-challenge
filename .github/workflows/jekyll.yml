@@ -15,5 +15,5 @@ jobs:
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: entries
+        folder: one-html-page-challenge
         branch: gh-pages
